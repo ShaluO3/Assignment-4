@@ -1,1 +1,5 @@
-# Assignment-4
+#include<stdio.h>
+void main()
+{
+printf("HEllo");
+}
